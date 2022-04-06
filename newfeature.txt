@@ -1,1 +1,2 @@
 This is my new feature
+Edited from master
